@@ -38,10 +38,13 @@
 | +S2     | Данные, передаваемые в интернет-банке, нужно защитить механизмом шифрования                                                             |             
 
 ### <a name="_qmphm5d6rvi3"></a>**Решение**
-Диаграмма контекста: https://drive.google.com/file/d/11y_2FJQaYpieKp-RT6tySg8920eFVElz/view?usp=sharing  
-![1](Депозиты_1_уровень.drawio.png)
-Диаграмма контейнеров: https://drive.google.com/file/d/12aKqG8tFkgfaZjTVifF5187e8TIhcoGT/view?usp=sharing  
-![2](Депозиты_2_уровень.drawio.png)
+Диаграмма контекста: 
+
+![1](deposits_1.drawio.png)
+
+Диаграмма контейнеров: 
+
+![2](deposits_2.drawio.png)
 
 Были приняты решения:
 1. **Создать отдельный микросервис обработки заявок на депозит**, чтобы:
